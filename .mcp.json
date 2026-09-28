@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "backstage": {
+      "type": "http",
+      "url": "${BACKSTAGE_URL}/api/mcp-actions/v1",
+      "headers": { "Authorization": "Bearer ${BACKSTAGE_TOKEN}" }
+    }
+  }
+}
