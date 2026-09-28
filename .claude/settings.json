@@ -1,0 +1,8 @@
+{
+  "extraKnownMarketplaces": {
+    "terasky": { "source": { "source": "github", "repo": "andel7/boutique-harness" } }
+  },
+  "enabledPlugins": { "boutique-harness@terasky": true },
+  "enableAllProjectMcpServers": true,
+  "autoMemoryEnabled": false
+}
